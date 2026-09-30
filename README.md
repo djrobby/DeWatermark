@@ -207,7 +207,7 @@ DeWatermark is deterministic - if an unwanted character is present and covered b
 Clone this repository into your Sublime Text `Packages` directory:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DeWatermark.git
+git clone https://github.com/djrobby/DeWatermark.git
 ```
 
 Restart Sublime Text if necessary.
