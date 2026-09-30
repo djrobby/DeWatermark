@@ -1,0 +1,11 @@
+*.png export-ignore
+*.jpg export-ignore
+*.jpeg export-ignore
+*.gif export-ignore
+*.psd export-ignore
+*.sublime-project export-ignore
+*.sublime-workspace export-ignore
+tests/ export-ignore
+.github/ export-ignore
+.gitignore export-ignore
+.gitattributes export-ignore
