@@ -1,4 +1,3 @@
-```python
 import sublime
 import sublime_plugin
 import unicodedata
@@ -277,4 +276,3 @@ class DewatermarkPasteCommand(sublime_plugin.TextCommand):
             sublime.status_message(
                 'DeWatermark: Clean - no watermarks detected.'
             )
-```
